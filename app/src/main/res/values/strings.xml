@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RailwaySchedule</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="register">Register</string>
+    <string name="signin">Sign in</string>
+    <string name="textview">Already Registered? Sign in here</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+</resources>
